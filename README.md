@@ -1,1 +1,1 @@
-Template files for QA test sites.
+Secondary test site for the QA environment.
